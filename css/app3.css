@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;  
+}
+
+main{
+    width: 100%;
+    
+}
+main nav{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 90px;
+    background-color: #3b5998;
+    color: white;
+}
+main nav .topbar {
+    text-align: center;
+    padding-left: 25px;
+    padding-top: 5px;
+    
+}
+main nav .topbar img{
+    float: left;
+     margin-left: 5px;
+}/*
+main nav .topbar .menu{
+    padding-right: 60%;
+    padding-left: 20px;
+    padding-top: 10px;
+    
+}
+main nav .menu li{
+    
+    padding-right: 15px;
+    padding-left: 25px;
+    font-size: 14pt;
+    display: inline;
+    list-style-type: none;
+    color:white;  
+    float: left;
+}*/
+main nav .formusername {
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 45px;
+    width: 80%;
+    float: left;
+    font-size: 14pt;  
+    margin: 2px;
+}
+main nav .formusername .serch{
+    width: 400px;
+    height: 25px;
+    border-radius: 100px;   
+}
+main nav .formusername .login{
+    width: 90px;
+    height: 25px;
+    border-radius: 100px;   
+}
+main .line{
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    
+}
+.bodypic{
+    background-color:#e9ebee;
+    text-align: center;
+    width: 60%;
+    height: 400VH; 
+}
+.bodypic img{
+    padding-top: 120px;
+}
+.asideright{
+    background-color:#3b5998;
+   
+    width: 40%;
+    float:right;
+     width: 40%;
+    height: 400VH; 
+}
+
+.asideright h2,h4{
+    color: white;
+    text-align: left;
+    padding-left: 35px;
+}
+
+.asideright .formsignup{
+    color: white;
+    padding-right: 20px;
+    
+    
+}
+.asideright .formsignup input{
+   
+    margin: 5px;
+    width: 43%;
+    height: 25px;
+    text-align: left;
+}
+.asideright .formsignup .mobile{
+    width: 90%;
+    margin-top: 20px;
+}
+.asideright .formsignup .newpassword{
+   width: 90%; 
+    margin-top: 20px;
+}
+.asideright .formsignup .signup{
+    margin-top: 40px;
+    text-align: center;
+    width: 90%;
+    height: 30px;
+    border-radius: 100px;
+}
+.asideright .formsignup .birthday{
+    width: 43%;
+    float:left;
+    padding-left: 25px;
+    margin-left: 45px;
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
